@@ -83,19 +83,7 @@ while t < tmax:
     t = t + dt
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
+# end of program
 
 
 
