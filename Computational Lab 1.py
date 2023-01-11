@@ -1,13 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Ball thrown at wall simulation 
-# 
-
-# In[1]:
-
-
-# This simple Program models a small ball being thrown at a wall
+# This simple program models a small ball being thrown at a wall
 # and falling for one second. The rate is slowed down to show 
 # gravitational force as the ball falls in the y-axis before and 
 # after hitting the wall. It also generates some simple graphs 
