@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Ball thrown at wall simulation 
-# 
-
-# In[1]:
-
-
 # This simple Program models a small ball being thrown at a wall
 # and falling for one second. The rate is slowed down to show 
 # gravitational force as the ball falls in the y-axis before and 
@@ -82,21 +73,7 @@ while t < tmax:
     
     t = t + dt
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
+# end program
 
 
 
